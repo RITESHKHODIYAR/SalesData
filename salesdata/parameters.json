@@ -1,0 +1,63 @@
+[
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Calendar.csv",
+        "parameterSinkFolder": "calendarfolder",
+        "parameterFile": "calendar.csv"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Product_Categories.csv",
+        "parameterSinkFolder": "ProductCategoriesfolder",
+        "parameterFile": "ProductCategories.csv"
+    },
+
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Product_Subcategories.csv",
+        "parameterSinkFolder": "ProductSubCategoriesfolder",
+        "parameterFile": "ProductSubCategories.csv"
+    },
+
+    {
+        "parameter_relativeURL":"RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Products.csv" ,
+        "parameterSinkFolder": "productsfolder",
+        "parameterFile": "Products.csv"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Returns.csv",
+        "parameterSinkFolder": "returnfolder",
+        "parameterFile": "return.csv"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Sales_2015.csv",
+        "parameterSinkFolder": "sales2015folder",
+        "parameterFile": "sales2015.csv"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Sales_2016.csv",
+        "parameterSinkFolder": "sales2016folder", 
+        "parameterFile": "sales2016.csv"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Sales_2017.csv", 
+        "parameterSinkFolder": "sales2017folder",
+        "parameterFile": "sales2017"
+    },
+
+    {
+        "parameter_relativeURL": "RITESHKHODIYAR/SalesData/refs/heads/main/salesdata/AdventureWorks_Territories.csv",
+        "parameterSinkFolder": "territoriesfolder" ,
+        "parameterFile": "territories.csv"
+    },
+
+    {
+        "parameter_relativeURL": "https://github.com/RITESHKHODIYAR/SalesData/raw/refs/heads/main/salesdata/AdventureWorks_Customers.csv",
+        "parameterSinkFolder": "customersfolder" ,
+        "parameterFile": "customer.csv"
+    }
+
+]
